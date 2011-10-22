@@ -1,0 +1,10 @@
+# ----------------------------------------------------------------------------
+# Craft multipart and form-urlencoded HTTP POST requests (returns NSMutableURLRequest). 
+# Simple functionality, no external dependencies. You will have to create your own 
+# delegates, etc. This types of post requests should handle several common cases, 
+# designed to work with Automated Reference Counting (ARC).
+#
+# Note: Usage should be self explanatory in SimplePost.m comments.
+#
+# Nicolas Goles Domic
+# ----------------------------------------------------------------------------
